@@ -1,0 +1,29 @@
+/* --- 6. COMPONENTES DE FEEDBACK --- */
+
+.badge {
+  display: inline-block;
+  padding: 4px 12px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 50px;
+  background-color: #ffc107;
+  color: #333333;
+}
+
+.alert-box {
+  padding: 12px;
+  margin-top: 10px;
+  border-left: 4px solid #28a745;
+  background-color: #e9f5ed;
+  color: #155724;
+  border-radius: 4px;
+}
+
+.toast-notification {
+  margin-top: 10px;
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 10px 16px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
