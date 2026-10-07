@@ -27,3 +27,22 @@
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
+
+/* --- Classes Utilitárias de Espaçamento e Componentes --- */
+.section-spacing {
+    margin-top: 40px;
+}
+
+.form-input {
+    padding: 8px;
+    margin: 5px 0 15px 0;
+    width: 300px;
+}
+
+.btn-submit {
+    padding: 10px 20px;
+    background-color: #2b7a78;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
